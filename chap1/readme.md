@@ -16,7 +16,7 @@
 
 
 # Terms:
-* Binaries - files that can executed residing in the /usr/bin or usr/sbin directory
+* Binaries - files that can executed residing in the /usr/bin or usr/sbin directory that allows you to run programs and commands
     - ps 
     - cat 
     - ls 
@@ -43,4 +43,24 @@ Microsoft Windows or applications in macOS) reside
 Windows DLLs)
 
 # Basic Linux Commands:
-- 
+- pwd - print working directory returns your location within the directory structures
+- whoami - displays the username of the current user
+- cd change directory
+- cd .. goes back a directory 
+    - You would use .. to move up one level.
+    - You would use ../.. to move up two levels.
+    - You would use ../../.. to move up three levels, and so on.
+- ls list contents of a directory 
+- ls -l long listing with more information on about the files and directories such as permissions, file size, and last modified 
+- ls -la Some files in Linux are hidden and won’t be revealed by a simple ls or
+ls -l command. To show hidden files, add a lowercase –a
+- --help, -h, -? Nearly every command, application, or utility has a dedicated help file in
+Linux that provides guidance for its use. many applications support all 3, there’s no guarantee the application you’re using will 
+- man A manual for most applications by typing before the command to provide with more information of the command or application 
+- locate (application) this will go through your entire
+filesystem and locate every occurrence of that word.
+- whereis (application) locating binary files 
+- which only returns the location of the binaries in the 'path' varaiable in Linux
+- 'Path' holds the directories in which the operating system looks for the commands you execute at the command line
+
+# Paused on page 11 
