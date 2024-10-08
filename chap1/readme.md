@@ -62,5 +62,7 @@ filesystem and locate every occurrence of that word.
 - whereis (application) locating binary files 
 - which only returns the location of the binaries in the 'path' varaiable in Linux
 - 'Path' holds the directories in which the operating system looks for the commands you execute at the command line
-
-# Paused on page 11 
+- find basic syntax directory options expression. kali >find / -type f -name apache2. First I state the directory in which to start the search, in this case / .
+Then I specify which type of file to search for, in this case f for an ordi-
+nary file . Last, I give the name of the file I’m searching for, in this case
+apache2 w.
