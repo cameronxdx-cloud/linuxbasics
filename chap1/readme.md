@@ -25,7 +25,11 @@
 * Directory - Organization of folder/files structures
 * root - administrator/superuser
 * Script - commands run by interpreters like Python, converting each line to source code, and are commonly used in hacking tools
-* Shell - Bash is a program in Linux that lets you run commands and scripts easily
+* Shell - is the command line interpreter that interprets the comand line input and instructs the operation system perform any tasks
+* Kernel - controls the hardware to interact with applications
+* Distros - is a collection of programs combined with the linux kernel to make up a Linux-based operating system 
+* Boot Loader - is a program that boots the operating system. Ex: GRUB and ISOLINUX
+* Service - is a program that runs as a backupground process 
 
 
 # Filesystem Structure:
