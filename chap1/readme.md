@@ -70,3 +70,23 @@ filesystem and locate every occurrence of that word.
 Then I specify which type of file to search for, in this case f for an ordi-
 nary file . Last, I give the name of the file I’m searching for, in this case
 apache2 w.
+- grep The grep command is often used when output is piped from one command to another. Output to input.
+- ps is to display information about the processes running on the machine. 
+- cat is to display the contents in a file
+- cat > 'filename will create a file. For creating bigger files,  it’s
+better to enter the code in a text editor such as vim, emacs, leafpad, gedit,
+or kate and then save it as a file.
+- cat >> To add, or append, more content to a file
+- mkdir creates a new directory 
+- touch creates file, changes file timestamps
+- mv moves or renames files 
+- mv 'newfile' 'newfile2' renames newfile to newfile2
+- rm removes a file
+- rmkdir removes a directory
+- cp copies a file or directory 
+- cp 'oldfile /root/'newdirectory'/'newfile' copies the oldfile to a newdirectory in root and naming it newfile.
+
+# List of GNU Core Utilities Commands 
+https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands
+
+https://chmod-calculator.com/
