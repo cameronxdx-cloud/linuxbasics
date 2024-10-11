@@ -33,7 +33,9 @@
 
 
 # Filesystem Structure:
+![alt text](Linux.gif)
 ![alt text](image.png)
+
 - /root The home directory of the all-powerful root user
 - /etc Generally contains the Linux configuration files—files that control when and how programs start up
 - /home The user’s home directory
