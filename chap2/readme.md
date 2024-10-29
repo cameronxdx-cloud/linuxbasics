@@ -7,3 +7,6 @@ To reconfigure an application, open the configuration file, change the text, sav
     - EX: cat /etc/snort/snort.conf
  Head - View the first 10 lines of a file. 
 - EX: head /etc/snort/snort.conf
+
+
+# Test
